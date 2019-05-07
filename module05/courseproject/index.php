@@ -24,7 +24,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <h1>THE MANAGEMENT</h1>
+          <h1>THE MANAGEMENT (data from the database)</h1>
             <?php
             include "php/openDB.php";
             $sql = 'SELECT * FROM profiles';

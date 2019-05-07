@@ -24,8 +24,17 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <h1>THE ABOUT US PAGE</h1>
-          <p>AMERICAN COLLEGE</p>
+          <h1>HISTORY</h1>
+          <p>WILDFLOWER College is a for-profit private college offering associate's and bachelor's degrees at 22 campuses in Minnesota, Illinois, North Dakota, Florida,
+             Wisconsin, Kansas and offers many programs fully online. Founded in 1900, it is headquartered in Bloomington, Minnesota.</p>
+        </div>
+        <div class="col-md-6">
+          <h1>ACADEMICS</h1>
+          <p>The school offers more than 70 programs<br>
+
+The school is organized into seven schools: Health Sciences, Design, Business,
+Justice Studies, Education, Nursing, and Technology.[21] In October 2010, 
+Rasmussen College announced a partnership with Market Motive Inc and announced programs in Internet marketing</p>
         </div>
       </div>
     </div>

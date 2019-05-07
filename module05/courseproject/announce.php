@@ -24,8 +24,14 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <h1>THE AnnouncementsT</h1>
-          <p>HERE ARE OUR ANNOUNCEMENTS TODAY</p>
+          <h1>THE FOOTBALL TEAM</h1>
+          <p>our football team will be leaving for CA for a tournamnent that will be held on Saturday 11th of this month.
+          From the sports department and the entire school community, we wish them well</p>
+        </div>
+        <div class="col-md-6">
+          <h1>Exams Department </h1>
+          <p>The examination Department wish to inform the students that the summer exams have been slatted to start on monday
+          next week. The exam will run for the entire week with all the units and courses having their course work submitted</p>
         </div>
       </div>
     </div>
